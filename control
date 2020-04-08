@@ -1,0 +1,9 @@
+Package: com.imsorrdaddy6.testing
+Name: testing
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: imsorrydaddy6
+Author: imsorrydaddy6
+Section: Tweaks
