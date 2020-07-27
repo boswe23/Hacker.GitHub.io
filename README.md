@@ -1,5 +1,5 @@
 # boswe23repo.github.io
-This repo is made from me , to people who want more tweaks for iOS 13 jailbroken devices. This repo is made just for cydia and I will let you guys know if I have open source help from other friendly developers that I can trust to have to work with me.
+This repo is made from me , to people who want more tweaks for iOS 13 to upcoming ios 14 jailbroken devices. This repo is made just for cydia and I will let you guys know if I have open source help from other friendly developers that I can trust to have to work with me.
 
 Cydia is a software distribution platform, similar to the iTunes App Store. You can download so-called “tweaks” which serve to extend your iPad, iPhone or iPod touch on a functional level. Furthermore, you can install all sorts of icon themes, wallpapers, ringtones and specialized Cydia apps.
 
